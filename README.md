@@ -57,11 +57,11 @@ Tip To install dependencies in a specific version, you must add the == operator 
 pip install parallel
 ```
 
-### Exercise 2c
+### Option 2C
 
 Search the internet and find out what you can use this library for.
 
-### Exercise 2d
+### Option 2D
 
 Select one of your previously created python files and check its correctness using the parallel (command: parallel <path_to_file>). If there are any suggestions, please make corrections; try until the result is 10/10.
 
